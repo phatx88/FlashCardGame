@@ -1,4 +1,4 @@
-Special thank to my mentor: Phạm Đức Huy
+Special thank to my mentor: Phạm Đức Huy.
 Memory flash card games:
 1.	Game lật hình , trúng + 10 điểm, thua thừ 5 điểm
 2.	Thời gian 60s, hết thời gian mà còn hình => thua, còn thời gian hết hình => thắng
